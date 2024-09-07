@@ -38,7 +38,7 @@ The scoring system generates values between 0 (worst performance) and 1 (best pe
 - Explore 3D pose estimation techniques for more accurate comparison across various dimensions.
   
 ## Contributors
-- **Shreyas Srinivasan** - [LinkedIn](https://www.linkedin.com/in/shreyas-srinivasan)
+- **Shreyas Srinivasan** 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
